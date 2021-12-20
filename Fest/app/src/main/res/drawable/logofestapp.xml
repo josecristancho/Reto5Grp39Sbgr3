@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/logofestappin" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp1" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp2" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp3" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp4" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp5" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp6" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp7" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp8" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp9" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp10" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp11" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp12" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp13" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp14" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp15" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp16" android:duration="50" />
+    <item android:drawable="@drawable/logofestapp17" android:duration="50" />
+</animation-list>
